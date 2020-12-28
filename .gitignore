@@ -16,3 +16,6 @@ macrocell.list
 
 # Mac
 .DS_Store
+
+#Config
+*.cvcrc
